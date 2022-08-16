@@ -1,9 +1,9 @@
 ### Hi there, I'm Khushmeet 👋
 
-- 👩🏻‍💻 I’m currently a student at Duke University, studying Computer Science 
-- 📌 You can find my hackathon, research, and coursework projects below
-- 💬 Ask me why I'm a hexagon enthusiast 
-- 📫 Reach out at khushmeet.chandi@duke.edu
+👩🏻‍💻 I’m currently a student at Duke University, studying Computer Science __
+📌 You can find my hackathon, research, and coursework projects below__
+💬 Ask me why I'm a hexagon enthusiast __
+📫 Reach out at khushmeet.chandi@duke.edu__
 
 - ✨ Thank you for stopping by! ✨
 
