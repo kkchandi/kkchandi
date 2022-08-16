@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Khushmeet 👋
+
+👩🏻‍💻 I’m currently a student at Duke University, studying Computer Science 
+📌 Check out my hackathon, research, or coursework projects below
+⬡ Ask me why hexagons are my favorite shape
+📫 Reach out at khushmeet.chandi@duke.edu
+
+✨ Thank you for stopping by! ✨
 
 <!--
 **kkchandi/kkchandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
