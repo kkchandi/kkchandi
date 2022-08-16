@@ -1,8 +1,8 @@
 ### Hi there, I'm Khushmeet 👋
 
 👩🏻‍💻 I’m currently a student at Duke University, studying Computer Science 
-📌 Check out my hackathon, research, or coursework projects below
-⬡ Ask me why hexagons are my favorite shape
+📌 You can find my hackathon, research, and coursework projects below
+💬 Ask me why I'm a hexagon enthusiast 
 📫 Reach out at khushmeet.chandi@duke.edu
 
 ✨ Thank you for stopping by! ✨
