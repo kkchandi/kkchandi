@@ -1,11 +1,11 @@
 ### Hi there, I'm Khushmeet 👋
 
-👩🏻‍💻 I’m currently a student at Duke University, studying Computer Science __
-📌 You can find my hackathon, research, and coursework projects below__
-💬 Ask me why I'm a hexagon enthusiast __
-📫 Reach out at khushmeet.chandi@duke.edu__
+👩🏻‍💻 I’m currently a student at Duke University, studying Computer Science <br />
+📌 You can find my hackathon, research, and coursework projects below <br />
+💬 Ask me why I'm a hexagon enthusiast <br />
+📫 Reach out at khushmeet.chandi@duke.edu <br />
 
-- ✨ Thank you for stopping by! ✨
+✨ Thank you for stopping by! ✨
 
 <!--
 **kkchandi/kkchandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
