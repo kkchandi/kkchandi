@@ -2,7 +2,7 @@
 
 👩🏻‍💻 I’m currently studying computer science at Duke University <br />
 📌 Check out my hackathon, research, and coursework projects below <br />
-📫 Feel free to reach out at [khushmeet.chandi (at) duke (dot) edu](mailto:khushmeet.chandi@duke.edu) <br />
+📫 Feel free to reach out at [khushmeet (dot) chandi (at) duke (dot) edu](mailto:khushmeet.chandi@duke.edu) <br />
 
 ✨ Thank you for stopping by! ✨
 
